@@ -1,0 +1,16 @@
+fi\tuni\prog3\weatherapp\HourlyForecastHandler.class
+fi\tuni\prog3\weatherapp\Model\WeatherItem.class
+fi\tuni\prog3\weatherapp\WeatherMapAPI.class
+module-info.class
+fi\tuni\prog3\weatherapp\JSONFileIO.class
+fi\tuni\prog3\weatherapp\WeatherApp.class
+fi\tuni\prog3\weatherapp\WeatherHistory.class
+fi\tuni\prog3\weatherapp\Model\ModelHourlyWeatherItem.class
+fi\tuni\prog3\weatherapp\WeatherApp$1.class
+fi\tuni\prog3\weatherapp\Model\ModelDailyWeatherItem.class
+fi\tuni\prog3\weatherapp\iAPI.class
+fi\tuni\prog3\weatherapp\DailyForecastHandler.class
+fi\tuni\prog3\weatherapp\HourlyForecastHandler$1.class
+fi\tuni\prog3\weatherapp\WeatherApiImpl.class
+fi\tuni\prog3\weatherapp\iReadAndWriteToFile.class
+fi\tuni\prog3\weatherapp\Model\WeatherHistoryEntry.class
