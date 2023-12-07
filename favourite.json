@@ -1,0 +1,176 @@
+[{
+  "cityName": "Tampere",
+  "temperature": -12.0,
+  "searchTime": "Dec 04, 09:05PM"
+},
+{
+  "cityName": "London",
+  "temperature": 6.0,
+  "searchTime": "Dec 04, 09:05PM"
+},
+{
+  "cityName": "Dhaka",
+  "temperature": 23.0,
+  "searchTime": "Dec 04, 09:06PM"
+},
+{
+  "cityName": "Helsinki",
+  "temperature": -8.0,
+  "searchTime": "Dec 05, 10:02PM"
+},
+{
+  "cityName": "Rome",
+  "temperature": 14.0,
+  "searchTime": "Dec 05, 10:07PM"
+},
+{
+  "cityName": "Pori",
+  "countryName": "FI",
+  "temperature": -6.0,
+  "searchTime": "Dec 05, 11:32PM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:31AM"
+},
+{
+  "cityName": "Lapponia",
+  "countryName": "FI",
+  "temperature": -13.0,
+  "searchTime": "Dec 06, 02:32AM"
+},
+{
+  "cityName": "Rauma",
+  "countryName": "FI",
+  "temperature": -7.0,
+  "searchTime": "Dec 06, 02:32AM"
+},
+{
+  "cityName": "Kokkola",
+  "countryName": "FI",
+  "temperature": -8.0,
+  "searchTime": "Dec 06, 03:24AM"
+},
+{
+  "cityName": "Brazil",
+  "countryName": "US",
+  "temperature": 3.0,
+  "searchTime": "Dec 06, 06:34AM"
+},
+{
+  "cityName": "Madrid",
+  "countryName": "ES",
+  "temperature": 3.0,
+  "searchTime": "Dec 07, 01:40AM"
+},
+{
+  "cityName": "Lisbon",
+  "countryName": "PT",
+  "temperature": 12.0,
+  "searchTime": "Dec 07, 01:41AM"
+}
+]

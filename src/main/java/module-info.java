@@ -7,7 +7,6 @@ module fi.tuni.progthree.weatherapp {
     requires com.google.gson;
     requires json.simple;
     requires org.json;
-    requires javafx.web;
 
 
     opens fi.tuni.prog3.weatherapp to javafx.fxml;

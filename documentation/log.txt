@@ -1,0 +1,770 @@
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+0756d87d · javadoc created for all file
+16 hours agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+6640032e · testing
+17 hours agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+ba96b02d · test file added
+19 hours agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+2125efc8 · CI testing
+19 hours agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+13fec923 · final app ready
+22 hours agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+52df1d48 · updated
+1 day agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+c129de74 · CI checking
+1 day agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+53d3ade1 · CI
+1 day agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+31dca95d · test file to CI
+1 day agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+6bfc9944 · test file
+1 day agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+cef4632f · CI
+1 day agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+3d9f8e3f · CI
+1 day agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Pushed new branch
+nasir-new
+1 day agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+b46603eb · favourite option added
+1 day agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Closed
+issue
+#10
+"Showing current temperature in favourite"
+1 day agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Commented on
+issue
+#10
+"Showing current temperature in favourite"
+done
+
+1 day agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Closed
+issue
+#9
+"saving favourite lcoations"
+1 day agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Commented on
+issue
+#9
+"saving favourite lcoations"
+Done
+
+2 days agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Pushed to branch
+nasir
+b7b13caa · user registration started
+... and 2 more commits. Compare 309d4b8e...b7b13caa
+2 days agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+2 days agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+2 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+2 days agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+2 days agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+2 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+3 days agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+3 days agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+3 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+3 days agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+3 days agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+3 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+3 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#16
+"JavaDoc"
+3 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Commented on
+issue
+#14
+"Documnets"
+@qxanma @stisru @mhnash everyone will do this
+
+3 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Closed
+issue
+#6
+"Search button, to search any city and show it weather information"
+3 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Commented on
+issue
+#6
+"Search button, to search any city and show it weather information"
+Done
+
+3 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Closed
+issue
+#2
+"Fetching necessary data using api endpoint"
+3 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Commented on
+issue
+#2
+"Fetching necessary data using api endpoint"
+done
+
+3 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Closed
+issue
+#7
+"Weather prediction for days"
+3 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Commented on
+issue
+#7
+"Weather prediction for days"
+done
+
+3 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Closed
+issue
+#11
+"Weathe history"
+3 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Commented on
+issue
+#11
+"Weathe history"
+Done
+
+3 days agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+f22a8eeb · adding new function history
+6 days agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Pushed to branch
+nasir
+309d4b8e · ui check
+6 days agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Pushed new branch
+nasir
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Pushed new branch
+israt-runa
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+a7164218 · fixed Daily and weekly Forcast is not updating with the location up...
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Commented on
+issue
+#15
+"Daily and weekly Forcast is not updating with the location update"
+Fixed
+
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Closed
+issue
+#5
+"Viewing a fixed location's hourly weather prediction"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Closed
+issue
+#15
+"Daily and weekly Forcast is not updating with the location update"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#15
+"Daily and weekly Forcast is not updating with the location update"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Closed
+issue
+#15
+"Daily and weekly Forcast is not updating with the location update"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#15
+"Daily and weekly Forcast is not updating with the location update"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Closed
+issue
+#4
+"Viewing a fixed location weather details"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Accepted
+merge request
+!2
+"serach button works and topbox works also"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+c4ec2c41 · Merge branch 'AnisulMahmud' into 'main'
+... and 1 more commit. Compare 2e6618e5...c4ec2c41
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Approved
+merge request
+!2
+"serach button works and topbox works also"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+merge request
+!2
+"serach button works and topbox works also"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+AnisulMahmud
+d46f6a75 · serach button works and topbox works also
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Closed
+issue
+#3
+"System design"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Closed
+issue
+#12
+"Setting up CI pipeline"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#14
+"Documnets"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#13
+"Test Cases"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#12
+"Setting up CI pipeline"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Accepted
+merge request
+!1
+"first task-setting up CI"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+main
+2e6618e5 · Merge branch 'AnisulMahmud' into 'main'
+... and 1 more commit. Compare d2a01657...2e6618e5
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+merge request
+!1
+"first task-setting up CI"
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed to branch
+AnisulMahmud
+00cc8a1e · first task-setting up CI
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+1 week agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+1 week agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+1 week agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#11
+"Weathe history"
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#10
+"Showing current temperature in favourite"
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#9
+"saving favourite lcoations"
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#8
+"login options for user"
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#7
+"Weather prediction for days"
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#6
+"Search button, to search any city and show it weather information"
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#5
+"Viewing a fixed location's hourly weather prediction"
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#4
+"Viewing a fixed location weather details"
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Closed
+issue
+#1
+"Generating Open Weather API"
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#3
+"System design"
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#2
+"Fetching necessary data using api endpoint"
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Opened
+issue
+#1
+"Generating Open Weather API"
+2 weeks agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+2 weeks agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+2 weeks agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+2 weeks agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+2 weeks agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+2 weeks agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+2 weeks agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+2 weeks agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Pushed new branch
+AnisulMahmud
+2 weeks agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+2 weeks agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+2 weeks agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+2 weeks agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+2 weeks agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+2 weeks agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+2 weeks agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+2 weeks agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+2 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+3 weeks agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+3 weeks agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+3 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+3 weeks agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+3 weeks agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+3 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+3 weeks agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+3 weeks agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+3 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+3 weeks agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Left project
+3 weeks agoIsrat Runa's avatar
+Israt Runa @stisru
+Left project
+3 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Left project
+3 weeks agoNasir Shuvo's avatar
+Nasir Shuvo @mhnash
+Joined project
+3 weeks agoIsrat Runa's avatar
+Israt Runa @stisru
+Joined project
+3 weeks agoAnisul Mahmud's avatar
+Anisul Mahmud @qxanma
+Joined project
+3 weeks agorepolainen's avatar
+repolainen @repolainen
+Imported project
+compcs140-fall2023 / group3158
