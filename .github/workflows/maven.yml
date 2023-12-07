@@ -26,7 +26,7 @@ jobs:
 
     - name: Build with Maven
       run: |
-        cd WeatherApp/
+    
         mvn compile
         mvn clean install
         mvn test
