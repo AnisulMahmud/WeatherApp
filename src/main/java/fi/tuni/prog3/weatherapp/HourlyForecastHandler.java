@@ -38,8 +38,6 @@ import javafx.scene.control.Tab;
 import javafx.scene.control.TabPane;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
-import javafx.scene.web.WebEngine;
-import javafx.scene.web.WebView;
 import java.util.ArrayList;
 import java.util.List;
 import javafx.collections.ObservableList;
