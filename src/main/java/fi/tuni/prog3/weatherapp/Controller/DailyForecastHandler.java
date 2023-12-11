@@ -1,23 +1,20 @@
 package fi.tuni.prog3.weatherapp.Controller;
-import fi.tuni.prog3.weatherapp.Model.ModelDailyWeatherItem;
 
+
+import fi.tuni.prog3.weatherapp.Model.ModelDailyWeatherItem;
 
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import javafx.collections.ObservableList;
+
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
-import javafx.scene.control.ListCell;
-import javafx.scene.control.ListView;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
-import javafx.scene.control.Label;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
@@ -28,10 +25,8 @@ import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
-
-import javafx.scene.layout.Region;
 import java.util.Locale;
-import java.time.LocalDate;
+
 
 /**
  * Handles daily weather forecast information using the OpenWeatherMap API.

@@ -30,120 +30,6 @@
   "searchTime": "Dec 05, 11:32PM"
 },
 {
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:31AM"
-},
-{
-  "cityName": "Lapponia",
-  "countryName": "FI",
-  "temperature": -13.0,
-  "searchTime": "Dec 06, 02:32AM"
-},
-{
   "cityName": "Rauma",
   "countryName": "FI",
   "temperature": -7.0,
@@ -172,5 +58,11 @@
   "countryName": "PT",
   "temperature": 12.0,
   "searchTime": "Dec 07, 01:41AM"
+},
+{
+  "cityName": "Sudan",
+  "countryName": "SD",
+  "temperature": 15.0,
+  "searchTime": "Dec 08, 05:23AM"
 }
 ]

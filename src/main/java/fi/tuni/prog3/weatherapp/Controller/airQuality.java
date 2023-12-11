@@ -1,4 +1,5 @@
 package fi.tuni.prog3.weatherapp.Controller;
+
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import java.net.HttpURLConnection;
@@ -18,7 +19,7 @@ public class airQuality {
     /**
      * The API key for accessing the OpenWeatherMap API.
      */
-    private static final String API_KEY = "23a54643d49faf711fbbd48521054055";
+    private static final String API_KEY = "";
 
     /**
      * Constructs a new airQuality object.

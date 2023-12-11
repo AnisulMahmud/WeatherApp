@@ -4,13 +4,11 @@ import  fi.tuni.prog3.weatherapp.Model.WeatherHistoryEntry;
 import fi.tuni.prog3.weatherapp.Model.ModelDailyWeatherItem;
 import fi.tuni.prog3.weatherapp.Model.ModelHourlyWeatherItem;
 import fi.tuni.prog3.weatherapp.Model.FavouriteEntry;
-
 import fi.tuni.prog3.weatherapp.Controller.DailyForecastHandler;
 import fi.tuni.prog3.weatherapp.Controller.*;
 
 
 import com.google.gson.JsonObject;
-
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
@@ -28,16 +26,12 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
-
 import java.nio.file.Paths;
-
 import java.time.Instant;
 import java.time.LocalDateTime;
-
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
-
 import javafx.scene.control.Tab;
 import javafx.scene.control.TabPane;
 import javafx.collections.ObservableList;
@@ -45,14 +39,9 @@ import javafx.collections.FXCollections;
 import javafx.scene.control.ListCell;
 import javafx.scene.paint.Color;
 import java.io.IOException;
-
 import java.util.List;
-
 import javafx.scene.control.ListView;
 import java.io.*;
-
-
-
 import javafx.scene.control.*;
 
 
@@ -65,7 +54,7 @@ public class WeatherApp extends Application {
     /**
      * API key for accessing the OpenWeatherMap API.
      */
-    private static final String API_KEY = "23a54643d49faf711fbbd48521054055";
+    private static final String API_KEY = "";
 
     /**
      * The endpoint URL for the OpenWeatherMap forecast API.
@@ -982,19 +971,22 @@ public class WeatherApp extends Application {
                 // for history.......................
                 WeatherHistoryEntry entry = new WeatherHistoryEntry(cityName, country, tempInt, dateTime);
 
-                // Add the entry to the history
-                weatherHistory.addToHistory(entry);
+                if(cityName != "Tampere") {
+                    // Add the entry to the history
+                    weatherHistory.addToHistory(entry);
 
-                // Update the history ListView
-                weatherHistory.updateHistoryListView();
+                    // Update the history ListView
+                    weatherHistory.updateHistoryListView();
 
-                // Write the updated history list to the file
-                try {
-                    weatherHistory.writeToFile("history.json");
-                } catch (IOException e) {
-                    e.printStackTrace();
+                    // Write the updated history list to the file
+                    try {
+                        weatherHistory.writeToFile("history.json");
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    }
                 }
 
+                
 
                 boolean isFavorite = favouriteHistory.isLocationInFavorites(cityName);
                 updateFavoriteButtonIcon(favoriteButton, isFavorite);

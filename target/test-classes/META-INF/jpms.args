@@ -1,0 +1,4 @@
+--patch-module
+fi.tuni.progthree.weatherapp=_
+--add-reads
+fi.tuni.progthree.weatherapp=ALL-UNNAMED

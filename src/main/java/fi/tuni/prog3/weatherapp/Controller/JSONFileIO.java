@@ -2,7 +2,6 @@ package fi.tuni.prog3.weatherapp.Controller;
 
 import java.io.FileReader;
 import java.io.FileWriter;
-
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 

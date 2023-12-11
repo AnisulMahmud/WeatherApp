@@ -7,7 +7,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
-import java.net.URISyntaxException;
 import java.net.URL;
 import java.time.format.DateTimeParseException;
 
@@ -17,7 +16,7 @@ import java.time.format.DateTimeParseException;
  */
 public class WeatherApiImpl implements iAPI {
 
-    private static final String API_KEY = "23a54643d49faf711fbbd48521054055";
+    private static final String API_KEY = "";
     private static final String API_ENDPOINT = "http://api.openweathermap.org/data/2.5/weather";
 
 

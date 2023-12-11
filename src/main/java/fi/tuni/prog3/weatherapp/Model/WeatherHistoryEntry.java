@@ -1,16 +1,10 @@
 package fi.tuni.prog3.weatherapp.Model;
 
-import java.time.LocalDateTime;
+
 import com.google.gson.Gson;
 import com.google.gson.annotations.SerializedName;
-import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.google.gson.TypeAdapter;
-import com.google.gson.TypeAdapterFactory;
-import com.google.gson.reflect.TypeToken;
-import com.google.gson.stream.JsonReader;
-import com.google.gson.stream.JsonWriter;
-import java.io.IOException;
+
 
 
 

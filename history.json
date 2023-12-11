@@ -1,284 +1,4 @@
 [{
-  "cityName": "Tampere",
-  "temperature": -13.0,
-  "searchTime": "Dec 03, 01:35AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -13.0,
-  "searchTime": "Dec 03, 01:35AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -13.0,
-  "searchTime": "Dec 03, 01:35AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -13.0,
-  "searchTime": "Dec 03, 01:35AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -13.0,
-  "searchTime": "Dec 03, 01:35AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -13.0,
-  "searchTime": "Dec 03, 01:48AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -13.0,
-  "searchTime": "Dec 03, 01:48AM"
-},
-{
-  "cityName": "Dhaka",
-  "temperature": 21.0,
-  "searchTime": "Dec 03, 01:49AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -13.0,
-  "searchTime": "Dec 03, 01:46AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -13.0,
-  "searchTime": "Dec 03, 01:59AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -13.0,
-  "searchTime": "Dec 03, 01:59AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -13.0,
-  "searchTime": "Dec 03, 01:59AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -13.0,
-  "searchTime": "Dec 03, 01:59AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -15.0,
-  "searchTime": "Dec 03, 02:17AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -15.0,
-  "searchTime": "Dec 03, 02:17AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -15.0,
-  "searchTime": "Dec 03, 02:17AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -14.0,
-  "searchTime": "Dec 03, 02:29AM"
-},
-{
-  "cityName": "London",
-  "temperature": -1.0,
-  "searchTime": "Dec 03, 02:21AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -14.0,
-  "searchTime": "Dec 03, 02:29AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -14.0,
-  "searchTime": "Dec 03, 02:29AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 02:41AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 02:41AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 02:41AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 02:41AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 02:41AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 02:41AM"
-},
-{
-  "cityName": "Dhaka",
-  "temperature": 20.0,
-  "searchTime": "Dec 03, 02:45AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 02:41AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 02:41AM"
-},
-{
-  "cityName": "Malta",
-  "temperature": 1.0,
-  "searchTime": "Dec 03, 02:45AM"
-},
-{
-  "cityName": "Helsinki",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 02:54AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 03:01AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 03:01AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 03:01AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 03:01AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 03:01AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 03:01AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 03:01AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 03:01AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 03:01AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 03:07AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 03:07AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 03:07AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 03, 03:25AM"
-},
-{
-  "cityName": "London",
-  "temperature": 0.0,
-  "searchTime": "Dec 03, 03:35AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -11.0,
-  "searchTime": "Dec 03, 03:48AM"
-},
-{
-  "cityName": "Qatar",
-  "temperature": 20.0,
-  "searchTime": "Dec 03, 03:52AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -11.0,
-  "searchTime": "Dec 03, 03:48AM"
-},
-{
-  "cityName": "Lapland",
-  "temperature": -10.0,
-  "searchTime": "Dec 03, 03:57AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -11.0,
-  "searchTime": "Dec 03, 03:48AM"
-},
-{
-  "cityName": "Chittagong",
-  "temperature": 21.0,
-  "searchTime": "Dec 03, 03:55AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -11.0,
-  "searchTime": "Dec 03, 03:59AM"
-},
-{
-  "cityName": "Chittagong",
-  "temperature": 21.0,
-  "searchTime": "Dec 03, 03:55AM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -11.0,
-  "searchTime": "Dec 04, 04:13PM"
-},
-{
-  "cityName": "London",
-  "temperature": 7.0,
-  "searchTime": "Dec 04, 04:40PM"
-},
-{
-  "cityName": "Tampere",
-  "temperature": -12.0,
-  "searchTime": "Dec 04, 06:41PM"
-},
-{
   "cityName": "London",
   "temperature": 6.0,
   "searchTime": "Dec 04, 06:42PM"
@@ -1420,5 +1140,89 @@
   "countryName": "PT",
   "temperature": 12.0,
   "searchTime": "Dec 07, 01:42AM"
+},
+{
+  "cityName": "Tampere",
+  "countryName": "FI",
+  "temperature": -6.0,
+  "searchTime": "Dec 07, 09:17PM"
+},
+{
+  "cityName": "Tampere",
+  "countryName": "FI",
+  "temperature": -6.0,
+  "searchTime": "Dec 07, 09:17PM"
+},
+{
+  "cityName": "Tampere",
+  "countryName": "FI",
+  "temperature": -6.0,
+  "searchTime": "Dec 07, 09:24PM"
+},
+{
+  "cityName": "Tampere",
+  "countryName": "FI",
+  "temperature": -6.0,
+  "searchTime": "Dec 07, 09:26PM"
+},
+{
+  "cityName": "Tampere",
+  "countryName": "FI",
+  "temperature": -6.0,
+  "searchTime": "Dec 07, 09:31PM"
+},
+{
+  "cityName": "Tampere",
+  "countryName": "FI",
+  "temperature": -6.0,
+  "searchTime": "Dec 07, 09:32PM"
+},
+{
+  "cityName": "Tampere",
+  "countryName": "FI",
+  "temperature": -6.0,
+  "searchTime": "Dec 07, 09:32PM"
+},
+{
+  "cityName": "Tampere",
+  "countryName": "FI",
+  "temperature": -6.0,
+  "searchTime": "Dec 07, 09:33PM"
+},
+{
+  "cityName": "Tampere",
+  "countryName": "FI",
+  "temperature": -6.0,
+  "searchTime": "Dec 08, 05:19AM"
+},
+{
+  "cityName": "Pori",
+  "countryName": "FI",
+  "temperature": -4.0,
+  "searchTime": "Dec 08, 05:19AM"
+},
+{
+  "cityName": "Rauma",
+  "countryName": "FI",
+  "temperature": -4.0,
+  "searchTime": "Dec 08, 05:20AM"
+},
+{
+  "cityName": "London",
+  "countryName": "GB",
+  "temperature": 8.0,
+  "searchTime": "Dec 08, 05:23AM"
+},
+{
+  "cityName": "Sudan",
+  "countryName": "SD",
+  "temperature": 15.0,
+  "searchTime": "Dec 08, 05:23AM"
+},
+{
+  "cityName": "Sudan",
+  "countryName": "SD",
+  "temperature": 15.0,
+  "searchTime": "Dec 08, 05:23AM"
 }
 ]
